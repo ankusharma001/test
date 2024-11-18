@@ -1,1 +1,9 @@
 hello kse ho 
+
+git branch branch name
+git git checkout branch name
+git add .
+ git commit -m ""
+ git push origin ---
+ git branch -d branchname
+ 
