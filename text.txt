@@ -7,5 +7,7 @@ git add .
  git push origin ---
  git branch -d branchname
 
+git merge branchname
+
  some more material 
  
