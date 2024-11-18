@@ -10,4 +10,6 @@ git add .
 git merge branchname
 
  some more material 
+ jfbkjfvkjb
+ kjbds
  
